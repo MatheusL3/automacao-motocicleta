@@ -56,6 +56,7 @@ void loop()
     digitalWrite(farol_milha, HIGH); delay(10000); digitalWrite(farol_milha, LOW); delay(15);
   }
 
+
   //escape
   byte byte_btn_escape = digitalRead(btn_escape); /*high abrir, low fechar*/    Serial.print("byte_btn_escape: "); Serial.println(byte_btn_escape);
   if ( byte_btn_escape == LOW and ( escape_status == 1 or escape_status == 2) ) {
