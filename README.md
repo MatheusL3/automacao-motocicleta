@@ -1,6 +1,6 @@
 ## Automação de Motocicleta
 
-### Neste projeto, implementei a automação de uma motocicleta modelo XT600e, a fazendo executar autonomamente as seguintes funções:
+### Neste projeto, implementei o projeto de automação de uma motocicleta modelo XT600e, a fazendo executar autonomamente as seguintes funções:
 * Acionar ignição
 * Acionar partida
 * Acionar faróis
